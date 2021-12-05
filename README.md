@@ -62,7 +62,7 @@ del b['dina']
 pada tugas praktium saya diberi soal sebagai berikut
 ![img](gambar/4.PNG) 
 ## flowchart
-![img](gambar/5.PNG)
+![img](gambar/5.png)
 ## JAWAB
 pertama saya membuat looping agar program terus berjalan
 ```py
